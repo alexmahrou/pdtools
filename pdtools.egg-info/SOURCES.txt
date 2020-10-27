@@ -1,0 +1,6 @@
+setup.py
+pdtools.egg-info/PKG-INFO
+pdtools.egg-info/SOURCES.txt
+pdtools.egg-info/dependency_links.txt
+pdtools.egg-info/requires.txt
+pdtools.egg-info/top_level.txt
