@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pdtools", # Replace with your own username
-    version="0.0.1",
+    version="0.0.2",
     author="Alex Mahrou",
     author_email="alexmahrou@gmail.com",
     description="Some useful pandas tools for ETL Processes",

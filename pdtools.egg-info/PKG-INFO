@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: pdtools
-Version: 0.0.1
+Version: 0.0.2
 Summary: Some useful pandas tools for ETL Processes
 Home-page: https://github.com/alexmahrou/pdtools
 Author: Alex Mahrou
